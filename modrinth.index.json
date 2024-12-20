@@ -96,18 +96,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/iPRNybGo/sodium-fabric-0.6.3%2Bmc1.21.4.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/aHtQZyzN/sodium-fabric-0.6.5%2Bmc1.21.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1291175,
+      "fileSize": 1286915,
       "hashes": {
-        "sha1": "97b2743aabb3cf9f19d1a0821639ad958465802c",
-        "sha512": "9066f7f41b25a7f55b9f8c128a2c0cbaa4e87232fe5ec58a4c5ac6ca1c803807fa43394bedd3856cc89032b1eb238a5dca115c158d59b4d25a832ae579207b7f"
+        "sha1": "f047b40a74b81aa96b7dd8845ee9c03acd8f9860",
+        "sha512": "0ccf30749be636733023f5b36f98f9be2d140d997581b0fc0164e30e7207549c87c4d37281f8f1bd5a40d4bce8880027bde275d739699f7a255f4f143e71a854"
       },
-      "path": "mods/sodium-fabric-0.6.3+mc1.21.4.jar"
+      "path": "mods/sodium-fabric-0.6.5+mc1.21.4.jar"
     },
     {
       "downloads": [
@@ -141,18 +141,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/KEv54FjE/fabric-api-0.111.0%2B1.21.4.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/d6uc3lSM/fabric-api-0.112.2%2B1.21.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2330831,
+      "fileSize": 2065392,
       "hashes": {
-        "sha1": "b8e3e51ee9b56e05b942651de05ecaa811d40edc",
-        "sha512": "ca6e1f0a6178f48b319891ca666ddaa186c094b6402e64e9d45e9f206d0985b0dbb00dfc833b14f26013463845ee1496356d4d8c0028eee4db9524e2cf2df618"
+        "sha1": "2e2900453b5d930eeb704fcd1f7d03b3a426d46c",
+        "sha512": "e9ee02c7e7cc8c7888dce66bc1378a6debf00ddd173ba775edbee57465ee2dc39b6c86e2529d18eaad1ac2c4464c24670ffe4fcb759c1659ef3e666b0505e694"
       },
-      "path": "mods/fabric-api-0.111.0+1.21.4.jar"
+      "path": "mods/fabric-api-0.112.2+1.21.4.jar"
     },
     {
       "downloads": [
@@ -168,6 +168,21 @@
         "sha512": "2abd08fc9f2d9a01f59abaf9c9603569e2a10cda08c66cb2e7f7ed740fa279806ec844f14ef1ddb73084513c1c637b153a203ff5dc25162a62f02c6224650414"
       },
       "path": "mods/ArmorPoser-fabric-1.21.4-8.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/RPOSBQgq/versions/m5FBPEra/itemswapper-fabric-0.7.4-mc1.21.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 878186,
+      "hashes": {
+        "sha1": "fe39f48ecf19708148609b3794a41dc5dd321731",
+        "sha512": "0c41ab8b42234058fc18cc79d7b30c51aa5988c4655c8c0fcb44bb876c2347c645cd67a81db59d54022f98748e7f38ad67d9875d37154f6406655d2cbef84f7b"
+      },
+      "path": "mods/itemswapper-fabric-0.7.4-mc1.21.4.jar"
     },
     {
       "downloads": [
