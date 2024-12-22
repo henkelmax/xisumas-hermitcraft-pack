@@ -318,6 +318,51 @@
         "sha512": "8cf626ea092b629b67a2dd1b1fff931faba5a7afd6b6bb1e7999a7a01c244f500bebce48a47f31a12e5442860aac2896ee03bde4516dd139b6a8ae7a673fdcb0"
       },
       "path": "mods/camerautils-fabric-1.21.4-1.0.16.jar"
+    },
+    {
+      "downloads": [
+        "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.9/litematica-fabric-1.21.4-0.21.0-sakura.9.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1211840,
+      "hashes": {
+        "sha1": "15514acb3dd4a65f002477c0cedb3b4f6bd93695",
+        "sha512": "16836e6274e107f179301ab43d02303cefad631fb696eb47736e839ee6ddc44678e96b3fd087ed1b7d3096b40b366bdb4085f5f7d149dfa3310d82a25e082871"
+      },
+      "path": "mods/litematica-fabric-1.21.4-0.21.0-sakura.9.jar"
+    },
+    {
+      "downloads": [
+        "https://github.com/sakura-ryoko/malilib/releases/download/1.21.4-0.23.0-sakura.5/malilib-fabric-1.21.4-0.23.0-sakura.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1070454,
+      "hashes": {
+        "sha1": "4a8f86e7fae1c0efe43a8cb339517a4ea7bb2baf",
+        "sha512": "f7a638f82ed55651acc4db17e7f658702fe512efcd52db31703c7883c69d4e81319bce99b8baf9be3a11d7fcfdf69b056dd4be2d5a86eb0fb6f862c32de43187"
+      },
+      "path": "mods/malilib-fabric-1.21.4-0.23.0-sakura.5.jar"
+    },
+    {
+      "downloads": [
+        "https://github.com/sakura-ryoko/minihud/releases/download/1.21.4-0.34.0-sakura.4/minihud-fabric-1.21.4-0.34.0-sakura.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 549327,
+      "hashes": {
+        "sha1": "72769a7cf78bf547f2a5a8484eeb9049d2742443",
+        "sha512": "5ac74489cbbf922f5b630894462991db1b8d8a49a8a9ea2f109f0ad19049104b3d76b4dc8dd584977cad4613f328e2c11d9065f50dd79d50ef641c2de4758a2a"
+      },
+      "path": "mods/minihud-fabric-1.21.4-0.34.0-sakura.4.jar"
     }
   ],
   "formatVersion": 1,
