@@ -126,6 +126,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/KsUV4RUr/malilib-fabric-1.21.4-0.23.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1071260,
+      "hashes": {
+        "sha1": "56316d09e4cd186c38e634cd41926b7d5b1dbdc4",
+        "sha512": "8612a9be88e56011e62d11ae961ece58401001d7d384da997d0556ed5e437c6018a5496a2f823283e983ec380998fd1f0f05f4b1de7a977dea70147da0aae6ed"
+      },
+      "path": "mods/malilib-fabric-1.21.4-0.23.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/M08ruV16/versions/9cevkjj6/bobby-5.2.6%2Bmc1.21.4.jar"
       ],
       "env": {
@@ -201,6 +216,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/UMxybHE8/versions/oc8nYhKp/minihud-fabric-1.21.4-0.34.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 551667,
+      "hashes": {
+        "sha1": "d7019958c81705ecab3a3311cb0e8afd2597c247",
+        "sha512": "637dee5b83d2ef6b385e85f7827a01176ca13a55de9369bf140f0a697720188ae551ed36fbe730bcb2382cef9761034277abe9efd4b1532770f4af1867ecca3f"
+      },
+      "path": "mods/minihud-fabric-1.21.4-0.34.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/XeEZ3fK2/versions/2NxXpmvb/freecam-fabric-1.3.2%2Bmc1.21.4.jar"
       ],
       "env": {
@@ -228,6 +258,21 @@
         "sha512": "e8ec36799f3d3d9a6bf3e14ad55a9927327013edc76f3c1e21472d5688c1f20e030a5eaaadb94dfcc4f45e82dc1dfd0bfba8b3080d5ea4c0fa7c48146d943cc5"
       },
       "path": "mods/status-fabric-1.21.4-1.0.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/bEpr0Arc/versions/uH2rrDmL/litematica-fabric-1.21.4-0.21.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1215287,
+      "hashes": {
+        "sha1": "1a1eb73607b193bcf238f60faeff9db67ed646ed",
+        "sha512": "c91b51f04be6e8bb2cea17be51614f3ee200fa274757bb6b8f44a879491c538a5cced2d53738d9ad10290e8b006a20c53f8554804662eea92c41844bcb5b6225"
+      },
+      "path": "mods/litematica-fabric-1.21.4-0.21.0.jar"
     },
     {
       "downloads": [
@@ -318,51 +363,6 @@
         "sha512": "8cf626ea092b629b67a2dd1b1fff931faba5a7afd6b6bb1e7999a7a01c244f500bebce48a47f31a12e5442860aac2896ee03bde4516dd139b6a8ae7a673fdcb0"
       },
       "path": "mods/camerautils-fabric-1.21.4-1.0.16.jar"
-    },
-    {
-      "downloads": [
-        "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.9/litematica-fabric-1.21.4-0.21.0-sakura.9.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 1211840,
-      "hashes": {
-        "sha1": "15514acb3dd4a65f002477c0cedb3b4f6bd93695",
-        "sha512": "16836e6274e107f179301ab43d02303cefad631fb696eb47736e839ee6ddc44678e96b3fd087ed1b7d3096b40b366bdb4085f5f7d149dfa3310d82a25e082871"
-      },
-      "path": "mods/litematica-fabric-1.21.4-0.21.0-sakura.9.jar"
-    },
-    {
-      "downloads": [
-        "https://github.com/sakura-ryoko/malilib/releases/download/1.21.4-0.23.0-sakura.5/malilib-fabric-1.21.4-0.23.0-sakura.5.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 1070454,
-      "hashes": {
-        "sha1": "4a8f86e7fae1c0efe43a8cb339517a4ea7bb2baf",
-        "sha512": "f7a638f82ed55651acc4db17e7f658702fe512efcd52db31703c7883c69d4e81319bce99b8baf9be3a11d7fcfdf69b056dd4be2d5a86eb0fb6f862c32de43187"
-      },
-      "path": "mods/malilib-fabric-1.21.4-0.23.0-sakura.5.jar"
-    },
-    {
-      "downloads": [
-        "https://github.com/sakura-ryoko/minihud/releases/download/1.21.4-0.34.0-sakura.4/minihud-fabric-1.21.4-0.34.0-sakura.4.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 549327,
-      "hashes": {
-        "sha1": "72769a7cf78bf547f2a5a8484eeb9049d2742443",
-        "sha512": "5ac74489cbbf922f5b630894462991db1b8d8a49a8a9ea2f109f0ad19049104b3d76b4dc8dd584977cad4613f328e2c11d9065f50dd79d50ef641c2de4758a2a"
-      },
-      "path": "mods/minihud-fabric-1.21.4-0.34.0-sakura.4.jar"
     }
   ],
   "formatVersion": 1,
