@@ -231,6 +231,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/TRmAsMO6/chat_heads-0.13.8-fabric-1.21.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 75667,
+      "hashes": {
+        "sha1": "144dd658146a4e47327673d0d774c11a51a6a7c7",
+        "sha512": "9e408a174cd847d49c2ef02cb2e0def87ea5881ae1040f6a8a6b6bdbdbf3c986e28ed6993503d55a63112a7e27cacb223f54acec7339bf2bc8ea0f66f54b036d"
+      },
+      "path": "mods/chat_heads-0.13.8-fabric-1.21.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/XeEZ3fK2/versions/2NxXpmvb/freecam-fabric-1.3.2%2Bmc1.21.4.jar"
       ],
       "env": {
@@ -246,18 +261,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/b93awgkg/versions/5U21SMda/status-fabric-1.21.4-1.0.6.jar"
+        "https://cdn.modrinth.com/data/b93awgkg/versions/VGmSWpqb/status-fabric-1.21.4-1.0.7.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 514080,
+      "fileSize": 514565,
       "hashes": {
-        "sha1": "a41ea513887a94ad8d54af06a8a79917abb7a57f",
-        "sha512": "e8ec36799f3d3d9a6bf3e14ad55a9927327013edc76f3c1e21472d5688c1f20e030a5eaaadb94dfcc4f45e82dc1dfd0bfba8b3080d5ea4c0fa7c48146d943cc5"
+        "sha1": "8ac258966c031ee1c2705269e590566cd4c8d7c4",
+        "sha512": "6caf03b2c2a18f1378c944119f48ab02e696bc86b60b5703c1902060863d5511f6ead39bf17f826ccf929a6d8f7843348c491e7ed6d691c0c0f2a4841d376b97"
       },
-      "path": "mods/status-fabric-1.21.4-1.0.6.jar"
+      "path": "mods/status-fabric-1.21.4-1.0.7.jar"
     },
     {
       "downloads": [
@@ -306,18 +321,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/6SB2ZRPm/lithium-fabric-0.14.5%2Bmc1.21.4.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/zVOQw7YU/lithium-fabric-0.14.6%2Bmc1.21.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 746206,
+      "fileSize": 746310,
       "hashes": {
-        "sha1": "9b1c2d8f9082784ab7f440a0bdcd92ed0c1b5ef1",
-        "sha512": "4e523a6c5148a29aed9900476b1f05647c7f22e9912212b3e235c1c69ba1df12a21b64f1dabc91571c2ce2aecdb3b98dda27834e8e3f753f000fce77acab28fd"
+        "sha1": "37ab2fc40840f9718b1e57ab2b1a9e5e19324d15",
+        "sha512": "dda05161bc2abdc64b9984f3b700b6762960241cbabe7347a387ec91cf117a106ea00ac410bb31bbd5e6448c879583259a7b5cf13b29ff68ef9193b8a87a64f3"
       },
-      "path": "mods/lithium-fabric-0.14.5+mc1.21.4.jar"
+      "path": "mods/lithium-fabric-0.14.6+mc1.21.4.jar"
     },
     {
       "downloads": [
