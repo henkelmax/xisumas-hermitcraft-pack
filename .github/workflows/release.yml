@@ -27,7 +27,7 @@ jobs:
           name: Xisuma's Hermitcraft Pack ${{ github.event.release.tag_name }}
           version: ${{ github.event.release.tag_name }}
           changelog: ${{ github.event.release.body }}
-          game_versions: 1.21.4
+          game_versions: 1.21.10
           loaders: fabric
           release_type: beta
           featured: true
