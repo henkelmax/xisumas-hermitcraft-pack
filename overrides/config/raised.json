@@ -1,55 +1,117 @@
 {
   "layers": {
-    "hotbar": {
-      "x": 0,
-      "y": 4,
-      "position": "BOTTOM",
-      "sync": "NONE"
+    "minecraft:bossbar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:bossbar"
     },
-    "chat": {
-      "x": 0,
-      "y": 12,
-      "position": "BOTTOM",
-      "sync": "NONE"
+    "minecraft:chat": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "minecraft:chat"
     },
-    "bossbar": {
-      "x": 0,
-      "y": 0,
-      "position": "TOP",
-      "sync": "NONE"
+    "minecraft:effects": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:effects"
     },
-    "sidebar": {
-      "x": 0,
-      "y": 0,
-      "position": "RIGHT",
-      "sync": "NONE"
+    "minecraft:hotbar": {
+      "displacement": {
+        "x": 0,
+        "y": 2
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "minecraft:hotbar"
     },
-    "effects": {
-      "x": 0,
-      "y": 0,
-      "position": "TOP_LEFT",
-      "sync": "NONE"
+    "minecraft:other": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "minecraft:other"
     },
-    "players": {
-      "x": 0,
-      "y": 0,
-      "position": "TOP",
-      "sync": "NONE"
+    "minecraft:players": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:players"
     },
-    "toasts": {
-      "x": 0,
-      "y": 0,
-      "position": "TOP_RIGHT",
-      "sync": "NONE"
+    "minecraft:sidebar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "NONE"
+      },
+      "sync": "minecraft:sidebar"
     },
-    "other": {
-      "x": 0,
-      "y": 0,
-      "position": "BOTTOM",
-      "sync": "NONE"
+    "minecraft:subtitles": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "UP"
+      },
+      "sync": "minecraft:subtitles"
+    },
+    "minecraft:titles": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "minecraft:titles"
+    },
+    "minecraft:toasts": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:toasts"
     }
   },
-  "resources": {
+  "resource": {
     "texture": "AUTO"
   }
 }
