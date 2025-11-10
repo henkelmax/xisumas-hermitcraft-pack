@@ -291,6 +291,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/VhUy58Cq/versions/zoBxVMfn/bundlesbeyond-1.3.2%2B1.21.9%2Bfabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 204479,
+      "hashes": {
+        "sha1": "8added5850475ee5c1ae2386ad884dac7137ecc3",
+        "sha512": "c6ca716f26eea4b280b979ca3aa3500543c69b0ef7bd5d9303158adf4161c0a162c1bd3914a9e3827b68c15f794c0ff6e73f3957cd5ebdacc8db97d2fab80cd3"
+      },
+      "path": "mods/bundlesbeyond-1.3.2+1.21.9+fabric.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/WKwQAwke/versions/6hs6vrtr/libjf-3.19.4.jar"
       ],
       "env": {
