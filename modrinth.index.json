@@ -51,21 +51,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 484112,
-      "hashes": {
-        "sha1": "a2bc15f6e37e08627da4e21468e5e86f67837db2",
-        "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf"
-      },
-      "path": "mods/do_a_barrel_roll-fabric-3.8.3+1.21.9.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/6KrNtW32/versions/l1SdtKnZ/chatsigninghider-fabric-1.21.10-1.0.5.jar"
       ],
       "env": {
