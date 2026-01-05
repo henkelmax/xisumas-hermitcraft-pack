@@ -14,7 +14,7 @@
     "minecraft:chat": {
       "displacement": {
         "x": 0,
-        "y": 0
+        "y": 12
       },
       "direction": {
         "x": "NONE",
