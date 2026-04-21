@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "fabric-loader": "0.19.1",
+    "fabric-loader": "0.19.2",
     "minecraft": "26.1.2"
   },
   "files": [
