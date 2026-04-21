@@ -5,6 +5,7 @@
   "showCompass": true,
   "compassColor": 16777215,
   "compassShadow": false,
+  "useCoordinatesNotation": false,
   "enableTeamBorder": false,
   "teamBorderThickness": "NORMAL",
   "borderStyle": "TEAM_COLOR",
