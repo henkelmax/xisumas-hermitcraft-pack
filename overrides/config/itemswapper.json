@@ -20,5 +20,6 @@
   "alwaysInventory": false,
   "showHotbar": false,
   "rememberPalette": false,
-  "showOpenInventoryButton": true
+  "showOpenInventoryButton": true,
+  "listsAsPalette": false
 }
